@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_7_Properties\bin\Debug\Example_7_Properties.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_7_Properties\bin\Debug\Example_7_Properties.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_7_Properties\bin\Debug\Example_7_Properties.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_7_Properties\obj\Debug\Example_7_Properties.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_7_Properties\obj\Debug\Example_7_Properties.pdb

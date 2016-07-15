@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\bin\Debug\Example_3_Constructors.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\bin\Debug\Example_3_Constructors.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\bin\Debug\Example_3_Constructors.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\obj\Debug\Example_3_Constructors.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\obj\Debug\Example_3_Constructors.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_3_Constructors\obj\Debug\Example_3_Constructors.csprojResolveAssemblyReference.cache

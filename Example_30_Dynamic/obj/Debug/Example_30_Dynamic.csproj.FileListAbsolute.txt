@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_30_Dynamic\bin\Debug\Example_30_Dynamic.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_30_Dynamic\bin\Debug\Example_30_Dynamic.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_30_Dynamic\bin\Debug\Example_30_Dynamic.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_30_Dynamic\obj\Debug\Example_30_Dynamic.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_30_Dynamic\obj\Debug\Example_30_Dynamic.pdb

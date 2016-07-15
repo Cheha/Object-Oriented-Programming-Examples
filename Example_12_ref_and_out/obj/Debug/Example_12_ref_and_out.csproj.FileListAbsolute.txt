@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\bin\Debug\Example_12_ref_and_out.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\bin\Debug\Example_12_ref_and_out.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\bin\Debug\Example_12_ref_and_out.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\obj\Debug\Example_12_ref_and_out.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\obj\Debug\Example_12_ref_and_out.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_12_ref_and_out\obj\Debug\Example_12_ref_and_out.pdb

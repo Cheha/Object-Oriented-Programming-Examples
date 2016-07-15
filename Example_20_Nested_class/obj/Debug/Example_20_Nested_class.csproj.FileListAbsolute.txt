@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_20_Nested_class\bin\Debug\Example_20_Nested_class.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_20_Nested_class\bin\Debug\Example_20_Nested_class.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_20_Nested_class\bin\Debug\Example_20_Nested_class.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_20_Nested_class\obj\Debug\Example_20_Nested_class.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_20_Nested_class\obj\Debug\Example_20_Nested_class.pdb

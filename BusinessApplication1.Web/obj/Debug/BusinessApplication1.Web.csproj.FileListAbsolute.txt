@@ -1,0 +1,9 @@
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\bin\BusinessApplication1.Web.dll
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\bin\BusinessApplication1.Web.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\bin\System.Web.Providers.dll
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.Resources.ValidationErrorResources.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.Resources.RegistrationDataResources.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.csproj.GenerateResource.Cache
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.dll
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1.Web\obj\Debug\BusinessApplication1.Web.pdb

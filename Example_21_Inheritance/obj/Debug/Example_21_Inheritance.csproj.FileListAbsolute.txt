@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\bin\Debug\Example_21_Inheritance.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\bin\Debug\Example_21_Inheritance.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\bin\Debug\Example_21_Inheritance.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\obj\Debug\Example_21_Inheritance.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\obj\Debug\Example_21_Inheritance.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_21_Inheritance\obj\Debug\Example_21_Inheritance.csprojResolveAssemblyReference.cache

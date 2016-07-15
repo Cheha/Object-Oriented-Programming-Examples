@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_17_Static\bin\Debug\Example_17_Static.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_17_Static\bin\Debug\Example_17_Static.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_17_Static\bin\Debug\Example_17_Static.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_17_Static\obj\Debug\Example_17_Static.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_17_Static\obj\Debug\Example_17_Static.pdb

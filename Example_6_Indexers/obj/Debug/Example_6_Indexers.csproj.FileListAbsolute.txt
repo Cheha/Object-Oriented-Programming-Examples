@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\bin\Debug\Example_6_Indexers.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\bin\Debug\Example_6_Indexers.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\bin\Debug\Example_6_Indexers.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\obj\Debug\Example_6_Indexers.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\obj\Debug\Example_6_Indexers.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_6_Indexers\obj\Debug\Example_6_Indexers.pdb

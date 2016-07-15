@@ -1,0 +1,17 @@
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\App.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\ErrorWindow.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\About.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\Home.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\MainPage.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\Login\LoginStatus.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\Login\LoginForm.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\Login\LoginRegistrationWindow.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\Views\Login\RegistrationForm.g.cs
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.g.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.Web.Resources.RegistrationDataResources.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.Web.Resources.ValidationErrorResources.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.Assets.Resources.ApplicationStrings.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.Assets.Resources.ErrorResources.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.Assets.Resources.SecurityQuestions.resources
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1\obj\Debug\BusinessApplication1.csproj.GenerateResource.Cache

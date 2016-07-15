@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\bin\Debug\Example_13_params.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\bin\Debug\Example_13_params.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\bin\Debug\Example_13_params.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\obj\Debug\Example_13_params.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\obj\Debug\Example_13_params.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_13_params\obj\Debug\Example_13_params.csprojResolveAssemblyReference.cache

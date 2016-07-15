@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_28_IClonable\bin\Debug\Example_28_IClonable.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_28_IClonable\bin\Debug\Example_28_IClonable.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_28_IClonable\bin\Debug\Example_28_IClonable.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_28_IClonable\obj\Debug\Example_28_IClonable.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_28_IClonable\obj\Debug\Example_28_IClonable.pdb

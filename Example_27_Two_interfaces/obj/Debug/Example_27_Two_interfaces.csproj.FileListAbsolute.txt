@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\obj\Debug\Example_27_Two_interfaces.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\bin\Debug\Example_27_Two_interfaces.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\bin\Debug\Example_27_Two_interfaces.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\bin\Debug\Example_27_Two_interfaces.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\obj\Debug\Example_27_Two_interfaces.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_27_Two_interfaces\obj\Debug\Example_27_Two_interfaces.pdb

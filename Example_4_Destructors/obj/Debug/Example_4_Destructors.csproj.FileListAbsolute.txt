@@ -1,0 +1,6 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\bin\Debug\Example_4_Destructors.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\bin\Debug\Example_4_Destructors.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\bin\Debug\Example_4_Destructors.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\obj\Debug\Example_4_Destructors.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\obj\Debug\Example_4_Destructors.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_4_Destructors\obj\Debug\Example_4_Destructors.csprojResolveAssemblyReference.cache

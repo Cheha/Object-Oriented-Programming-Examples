@@ -1,0 +1,5 @@
+D:\Brain Academy\Object_oriented_programming_Examples\Example_29_Equals\bin\Debug\Example_29_Equals.exe.config
+D:\Brain Academy\Object_oriented_programming_Examples\Example_29_Equals\bin\Debug\Example_29_Equals.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_29_Equals\bin\Debug\Example_29_Equals.pdb
+D:\Brain Academy\Object_oriented_programming_Examples\Example_29_Equals\obj\Debug\Example_29_Equals.exe
+D:\Brain Academy\Object_oriented_programming_Examples\Example_29_Equals\obj\Debug\Example_29_Equals.pdb

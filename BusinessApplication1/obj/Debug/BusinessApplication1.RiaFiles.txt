@@ -1,0 +1,3 @@
+D:\Brain Academy\Object_oriented_programming_Examples\BusinessApplication1
+Generated_Code\BusinessApplication1.Web.g.cs
+Generated_Code\Models\Shared\User.shared.cs
